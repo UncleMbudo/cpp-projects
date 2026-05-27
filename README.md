@@ -29,5 +29,3 @@ Customer support tracker built as a singly linked list from scratch with full CR
 ---
 **Author:** Mbuso B. Zulu | BSc IT, Richfield Graduate Institute of Technology
 ```
-
-Ready for the Python projects README whenever you are!
